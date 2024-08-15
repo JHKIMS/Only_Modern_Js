@@ -95,8 +95,6 @@ strict mode는 this 바인딩에 영향을 준다.<br>
 this의 본질은 객체의 프로퍼티나 메서드를 참조하기 위한 자기 참조 변수의 개념.<br>
 → 객체가 아닌 일반 함수 네부의 this는 필요가 없으므로, strict mode에서 this을 참조할 경우 undefined을 반환.
 
-![InsideOutGIF (2)](https://github.com/user-attachments/assets/506dd922-64e2-497d-8c0b-86ab9541c2c9)
-
 <details>
   <summary>🤖 TMI GPT <b>JavaScript의 Strict Mode와 TypeScript의 관계</b></summary>
 
